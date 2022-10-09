@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Daydream0864
 - 👀 I’m interested in 3D art, Animation, technology, etc...
-- 🌱 I’m currently learning how to better in my life
-- 💞️ I’m looking to collaborate on making a movie or TV-Show with VRC or anime Models
-- 📫 How to reach me Twitter, Instagram more in my webpage
+- 🌱 I’m currently learning how to be a programmer
+- 💞️ I'm looking to collaborate on making quality of life software
+- 📫 How to reach me Twitter or Instagram 
 
 <!---
 Daydream0864/Daydream0864 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
