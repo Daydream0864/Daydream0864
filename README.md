@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daydream0864
 - 👀 I’m interested in 3D art, Animation, technology, etc...
-- 🌱 I’m currently learning how to be a programmer
+- 🌱 I’m currently learning how to be a programmer nad getting a Job
 - 💞️ I'm looking to collaborate on making quality of life software
 - 📫 How to reach me Twitter or Instagram 
 
