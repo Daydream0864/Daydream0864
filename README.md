@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/OL5iubJC4wUAAAAd/american-psycho.gif"  />
+  <img height="150" width="150px" src="[https://media1.tenor.com/m/OL5iubJC4wUAAAAd/american-psycho.gif](https://tenor.com/view/сигма-gif-3883804279153061520)"/>
 </div>
 
 ###
